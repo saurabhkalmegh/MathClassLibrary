@@ -1,0 +1,6 @@
+D:\ASP.NET MVC\MathClassLibray\MathClassLibray\bin\Debug\MathClassLibray.dll
+D:\ASP.NET MVC\MathClassLibray\MathClassLibray\bin\Debug\MathClassLibray.pdb
+D:\ASP.NET MVC\MathClassLibray\MathClassLibray\obj\Debug\MathClassLibray.csprojAssemblyReference.cache
+D:\ASP.NET MVC\MathClassLibray\MathClassLibray\obj\Debug\MathClassLibray.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC\MathClassLibray\MathClassLibray\obj\Debug\MathClassLibray.dll
+D:\ASP.NET MVC\MathClassLibray\MathClassLibray\obj\Debug\MathClassLibray.pdb
